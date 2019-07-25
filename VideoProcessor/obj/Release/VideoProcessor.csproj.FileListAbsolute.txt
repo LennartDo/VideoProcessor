@@ -1,0 +1,11 @@
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\bin\Release\ffmpeg.exe
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\bin\Release\VideoProcessor.exe.config
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\bin\Release\VideoProcessor.exe
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\bin\Release\VideoProcessor.pdb
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\obj\Release\VideoProcessor.Form1.resources
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\obj\Release\VideoProcessor.Properties.Resources.resources
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\obj\Release\VideoProcessor.csproj.GenerateResource.cache
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\obj\Release\VideoProcessor.csproj.CoreCompileInputs.cache
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\obj\Release\VideoProcessor.exe
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\obj\Release\VideoProcessor.pdb
+W:\Programming\CSharp\VideoProcessor\VideoProcessor\obj\Release\VideoProcessor.csprojAssemblyReference.cache
